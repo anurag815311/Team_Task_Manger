@@ -8,7 +8,6 @@ TaskFlow is a modern, full-stack project management and task tracking applicatio
 
 - **Premium UI/UX:** Stunning dark-mode aesthetic with vibrant gradients, glassmorphism cards, floating sidebars, and smooth micro-animations.
 - **Secure Authentication:** JWT-based user authentication and password hashing using bcrypt.
-- **Dashboard Analytics:** Interactive visual charts (Pie & Bar) and team performance tracking using Recharts.
 - **Project Management:** Create workspaces, invite team members via email, and assign roles.
 - **Task Tracking:** Full CRUD capabilities for tasks. Assign priorities (Low, Medium, High) and statuses (To Do, In Progress, Done).
 - **Role-Based Access Control (RBAC):** 
